@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Android Calculator</string>
+    <string name="help_instructions">Enter Two Numbers</string>
+    <string name="result_header">The Result</string>
+    <string name="addition_sign">+</string>
+    <string name="subtraction_sign">-</string>
+    <string name="division_sign">/</string>
+    <string name="multiplication_sign">*</string>
+    <string name="clear_all">Clear</string>
+</resources>
